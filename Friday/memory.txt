@@ -1,0 +1,4 @@
+name,lastname,status
+david,cantillo,creator
+luis,cantillo,david's brother
+carlos,mario,cousin
